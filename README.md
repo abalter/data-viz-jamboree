@@ -1,6 +1,8 @@
 # data-viz-jamboree
 Materials for data visualization jamboree
 
+## [Introduction to R ggplot2 plotting](https://github.com/abalter/data-viz-jamboree/blob/master/ggplot-jamboree-heart.Rmd)
+
 ## [Introduction to Python Plotting](https://github.com/abalter/data-viz-jamboree/blob/master/python-plotting-intro.ipynb)
 
 ## [Introdution to Python pandas dataframe](https://github.com/abalter/data-viz-jamboree/blob/master/python-pandas-intro.ipynb)
