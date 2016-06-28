@@ -5,5 +5,6 @@ Materials for data visualization jamboree
 
 ## [Introdution to Python pandas dataframe](https://github.com/abalter/data-viz-jamboree/blob/master/python-pandas-intro.ipynb)
 
-## [Introdution to Pytnon seaborn Plotting](https://github.com/abalter/data-viz-jamboree/blob/master/seaborn-data-jamboree-heart.ipynb)
+## [Introdution to Python seaborn Plotting](https://github.com/abalter/data-viz-jamboree/blob/master/seaborn-data-jamboree-heart.ipynb)
 
+## [Introduction to Python ggplot plotting](https://github.com/abalter/data-viz-jamboree/blob/master/ggplot-data-jamboree-heart.ipynb)
