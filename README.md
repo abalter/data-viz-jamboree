@@ -1,12 +1,15 @@
-# data-viz-jamboree
-Materials for data visualization jamboree
+###Data Jamboree - ggplot2
 
-## [Introduction to R ggplot2 plotting](https://github.com/abalter/data-viz-jamboree/blob/master/ggplot-jamboree-heart.Rmd)
+Code and notes for breakout session for OHSU Data Jamboree on 6/24/16.
 
-## [Introduction to Python Plotting](https://github.com/abalter/data-viz-jamboree/blob/master/python-plotting-intro.ipynb)
 
-## [Introdution to Python pandas dataframe](https://github.com/abalter/data-viz-jamboree/blob/master/python-pandas-intro.ipynb)
+Data is based on NHANES heart data here: http://faculty.washington.edu/kenrice/heartgraphs/
 
-## [Introdution to Python seaborn Plotting](https://github.com/abalter/data-viz-jamboree/blob/master/seaborn-data-jamboree-heart.ipynb)
+We replicated some of the figures from Rice & Lumley 2015. http://faculty.washington.edu/kenrice/heartgraphs/effectivegraphs.pdf
 
-## [Introduction to Python ggplot plotting](https://github.com/abalter/data-viz-jamboree/blob/master/ggplot-data-jamboree-heart.ipynb)
+
+Description of files in repository: 
+
+- Getting started with ggplot.pdf: how to download R, RStudio, necessary packages, and dataset
+- Data_Jamboree_ggplot_printout.rmd: code handed out during workshop (no figures, no extra notes)
+- Data_Jamboree_ggplot_instr_notes.rmd: workshop code with added instructor notes and figures
