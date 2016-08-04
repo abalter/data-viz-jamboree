@@ -17,20 +17,23 @@ http://www.cdc.gov/nchs/nhanes/
 
 ## Knitr and Jupyter Notebooks:
 
-## [Getting started with R, RStudio, and packages](https://github.com/abalter/data-viz-jamboree/blob/master/Getting%20started%20with%20ggplot.pdf)
+### R
+#### [Getting started with R, RStudio, and packages](https://github.com/abalter/data-viz-jamboree/blob/master/Getting%20started%20with%20ggplot.pdf)
 
-## [Introduction to R ggplot2 plotting- worksheet version](https://github.com/abalter/data-viz-jamboree/blob/master/Data_Jamboree_ggplot_printout.Rmd)
+#### [Introduction to R ggplot2 plotting- worksheet version](https://github.com/abalter/data-viz-jamboree/blob/master/Data_Jamboree_ggplot_printout.Rmd)
 
-## [Introduction to R ggplot2 plotting- html version](http://cslu.ohsu.edu/~presmane/courses/ggplot-jamboree-heart.html)
+#### [Introduction to R ggplot2 plotting- html version](http://cslu.ohsu.edu/~presmane/courses/ggplot-jamboree-heart.html)
 
-## [ggplot2 additional notes](https://github.com/abalter/data-viz-jamboree/blob/master/Data_Jamboree_ggplot_instr_notes.Rmd)
+#### [ggplot2 additional notes](https://github.com/abalter/data-viz-jamboree/blob/master/Data_Jamboree_ggplot_instr_notes.Rmd)
 
-## [Introduction to Python Plotting](https://github.com/abalter/data-viz-jamboree/blob/master/python-plotting-intro.ipynb)
+### Python
 
-## [Introdution to Python pandas dataframe](https://github.com/abalter/data-viz-jamboree/blob/master/python-pandas-intro.ipynb)
+#### [Introduction to Python Plotting](https://github.com/abalter/data-viz-jamboree/blob/master/python-plotting-intro.ipynb)
 
-## [Introdution to Python seaborn Plotting](https://github.com/abalter/data-viz-jamboree/blob/master/seaborn-data-jamboree-heart.ipynb)
+#### [Introdution to Python pandas dataframe](https://github.com/abalter/data-viz-jamboree/blob/master/python-pandas-intro.ipynb)
 
-## [Introduction to Python ggplot plotting](https://github.com/abalter/data-viz-jamboree/blob/master/ggplot-data-jamboree-heart.ipynb)
+#### [Introdution to Python seaborn Plotting](https://github.com/abalter/data-viz-jamboree/blob/master/seaborn-data-jamboree-heart.ipynb)
+
+#### [Introduction to Python ggplot plotting](https://github.com/abalter/data-viz-jamboree/blob/master/ggplot-data-jamboree-heart.ipynb)
 
 
