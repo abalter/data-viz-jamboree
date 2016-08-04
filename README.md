@@ -10,7 +10,10 @@ We replicated some of the figures from Rice & Lumley 2015. http://faculty.washin
 
 ## [Getting started with R, RStudio, and packages](https://github.com/abalter/data-viz-jamboree/blob/master/Getting%20started%20with%20ggplot.pdf)
 
-## [Introduction to R ggplot2 plotting](https://github.com/abalter/data-viz-jamboree/blob/master/Data_Jamboree_ggplot_printout.Rmd)
+## [Introduction to R ggplot2 plotting- worksheet version](https://github.com/abalter/data-viz-jamboree/blob/master/Data_Jamboree_ggplot_printout.Rmd)
+
+## [Introduction to R ggplot2 plotting- html version](http://cslu.ohsu.edu/~presmane/courses/ggplot-jamboree-heart.html)
+
 
 ## [ggplot2 additional notes](https://github.com/abalter/data-viz-jamboree/blob/master/Data_Jamboree_ggplot_instr_notes.Rmd)
 
