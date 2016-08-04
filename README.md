@@ -8,7 +8,7 @@ Data is based on NHANES heart data here: http://faculty.washington.edu/kenrice/h
 
 We replicated some of the figures from Rice & Lumley 2015. http://faculty.washington.edu/kenrice/heartgraphs/effectivegraphs.pdf
 
-## [Getting started with R, RStudio, and packages](Julianne add link here)
+## [Getting started with R, RStudio, and packages](https://github.com/abalter/data-viz-jamboree/blob/master/Getting%20started%20with%20ggplot.pdf)
 
 ## [Introduction to R ggplot2 plotting](https://github.com/abalter/data-viz-jamboree/blob/master/Data_Jamboree_ggplot_printout.Rmd)
 
