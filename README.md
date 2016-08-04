@@ -1,5 +1,5 @@
 
-# OHSU Data-Viz Data Jamboree -- June 24, 2016
+# OHSU Data-Viz Data Jamboree &mdash; June 24, 2016
 ## Code and Notes for Breakout Session Workshops
 ### Based on the Article
 Review:
