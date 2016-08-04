@@ -1,12 +1,19 @@
 
-# data-viz-jamboree
-Materials for data visualization jamboree
-
-Code and notes for breakout session for OHSU Data Jamboree on 6/24/16.
-
-Data is based on NHANES heart data here: http://faculty.washington.edu/kenrice/heartgraphs/
-
-We replicated some of the figures from Rice & Lumley 2015. http://faculty.washington.edu/kenrice/heartgraphs/effectivegraphs.pdf
+# OHSU Data-Viz Data Jamboree -- June 24, 2016
+## Code and Notes for Breakout Session Workshops
+### Based on the ARticle
+Review:
+[Graphics and statistics for cardiology: comparing categorical and continuous variables](http://heart.bmj.com/content/early/2016/01/27/heartjnl-2015-308104.full)  
+Kenneth Rice, Thomas Lumley  
+Heart heartjnl-2015-308104  
+doi:10.1136/heartjnl-2015-308104  
+   
+### Additional materials
+http://faculty.washington.edu/kenrice/heartgraphs/
+    
+### Data based on
+NHANES (National Health and Nutrition Examination Survey)
+http://www.cdc.gov/nchs/nhanes/
 
 ## [Getting started with R, RStudio, and packages](https://github.com/abalter/data-viz-jamboree/blob/master/Getting%20started%20with%20ggplot.pdf)
 
